@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://pixabay.com/get/g17ccc6e9b9c8cb6643c6c0ff142a3740a47ef3cfbc81a5eab0827bb47c8aacb393fccd52a625ace6d33df6ceec2a77cf3d5f76b5f75f3a6b1e928cb27525c78ede102ca42b3b14c6ad951bfee3642c98_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.container {
+    width: 20rem;
+    height: 20rem;
+    margin: 10rem auto;
+    text-align: center;
+}
+
+h1 {
+    border-bottom: 5px solid rgb(64, 184, 64);
+    padding-bottom: 0.5rem;
+    color: white;
+    margin-bottom: 4rem;
+}
+
+input {
+    width: 100%;
+    padding: 0.5rem;
+    padding-left: 1.5rem;
+    background-color: transparent;
+    color: white;
+    font-size: larger;
+    border: none;
+    border-bottom: 1px solid rgb(64, 184, 64);
+    outline: none;
+}
+
+::placeholder {
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+form {
+    color: white;
+}
+
+::placeholder:active {
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: transparent;
+    border: 2px solid rgb(64, 184, 64);
+    border-radius: 5px ;
+    color: white;
+    font-size: larger;
+}
+
+button:hover {
+    background-color: green;
+    cursor: pointer;
+}
+
+.fa-solid {
+    color: white;
+    position: absolute;
+    top: 20%;
+}
