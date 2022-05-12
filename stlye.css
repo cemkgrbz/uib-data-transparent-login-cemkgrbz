@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://pixabay.com/get/g17ccc6e9b9c8cb6643c6c0ff142a3740a47ef3cfbc81a5eab0827bb47c8aacb393fccd52a625ace6d33df6ceec2a77cf3d5f76b5f75f3a6b1e928cb27525c78ede102ca42b3b14c6ad951bfee3642c98_1920.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://images.pexels.com/photos/3070989/pexels-photo-3070989.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
