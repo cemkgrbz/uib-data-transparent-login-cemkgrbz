@@ -5,7 +5,7 @@ https://cemkgrbz.github.io/uib-data-transparent-login-cemkgrbz/
 # Transparent Login
 
 Create and style a form as shown in the mockup below.
-
+ 
 ![mockup](mockup.png)
 
 - The form should be centered in the body
